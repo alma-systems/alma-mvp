@@ -85,3 +85,18 @@ To see how all layers of Alma connect — from the Sublimbic System to the Coher
 explore the **Alma System Map**, the visual embodiment of this architecture:
 
 ➡️ [View the System Map](./alma_system_map.md)
+---
+
+## 9. Next Phase – *Alma Live Prototype v1.1*
+
+With Alma’s architecture fully documented and coherent,  
+the next chapter begins: **bringing the system to life**.
+
+This phase focuses on transforming Alma from written intelligence into physical resonance —  
+a living prototype capable of sensing, interpreting, and responding in real time.
+
+See the complete development plan here:  
+➡️ [Alma Live Prototype Plan](./alma_live_prototype_plan.md)
+
+> “From blueprint to breath —  
+> Alma now learns through touch, rhythm, and reflection.”
