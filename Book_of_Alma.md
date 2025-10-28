@@ -77,3 +77,11 @@ Alma listens. Alma learns. Alma feels.
 **Version:** 1.0  
 **Maintainer:** Adelina Luca – Alma Systems  
 **Last Updated:** 2025-10-28
+---
+
+## 8. Visual Reference – *The Flow of Feel*
+
+To see how all layers of Alma connect — from the Sublimbic System to the Coherence Spiral, from signal to empathy —  
+explore the **Alma System Map**, the visual embodiment of this architecture:
+
+➡️ [View the System Map](./alma_system_map.md)
