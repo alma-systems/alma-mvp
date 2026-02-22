@@ -2,6 +2,7 @@
 *“Translating feeling into data, and data back into feeling.”*  
 
 ---
+"Status: Active — Hardware prototype phase, February 2026. Component procurement in progress."
 
 ### 💫 Overview  
 
