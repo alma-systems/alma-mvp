@@ -70,4 +70,4 @@ HR / GSR / Temp / Motion → Microcontroller (ADC / I²C) → BLE → Data Pipel
 
 **Version:** 1.0  
 **Maintainer:** Adelina Luca – Alma Systems  
-**Last Updated:** 2025-10-28
+**Last Updated:** 2025-02-26
