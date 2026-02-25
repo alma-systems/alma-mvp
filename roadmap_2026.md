@@ -15,7 +15,7 @@ The focus is on reliability, usability, and integration with broader well-being 
 
 | Quarter | Objective | Key Deliverables |
 |----------|------------|------------------|
-| **Q1 2026** | MVP refinement | ✅ Finalize confidence score engine  <br> ✅ Optimize BLE stability  <br> ✅ Improve data smoothing algorithms |
+| **Q1 2026** | MVP refinement | ✅ Finalize confidence score engine  <br> ✅ Optimize BLE stability  <br> ✅ Improve data smoothing algorithms |☑ Begin solo hardware prototype assembly & self-testing
 | **Q2 2026** | Beta testing | ✅ Launch pilot with 10–20 users (Alma Collective)  <br> ✅ Gather emotional-state correlation data  <br> ✅ Validate UI feedback consistency |
 | **Q3 2026** | Institutional partnerships | ✅ Collaborate with research labs (EPFL, FinalSpark)  <br> ✅ Initiate IP review and novelty check (Sunil)  <br> ✅ Prepare for regulatory submission |
 | **Q4 2026** | Market readiness | ✅ Design “Alma Bloom” edition for children  <br> ✅ Finalize manufacturing BOM  <br> ✅ Start investor briefings and pre-orders |
