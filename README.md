@@ -1,8 +1,12 @@
 # 🌿 ALMA – Emotional Resonance System  
 *“Translating feeling into data, and data back into feeling.”*  
+Alma is a screenless, haptic wearable designed for nervous system regulation.
 
+It communicates through subtle vibration — no screen, no voice, no notifications.
+
+The core principle: better silence than the wrong intervention.
 ---
-"Status: Active — Hardware prototype phase, February 2026. Component procurement in progress."
+"Status: Active — Hardware prototype phase, March 2026. Testing in progress v0.1 prototype."
 
 ### 💫 Overview  
 
